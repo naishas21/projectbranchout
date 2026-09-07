@@ -1,3 +1,26 @@
 * {
-    background-color: #97e7f5 !important;
+    background-color: #97e7f5;
+    font-family: "Quicksand", sans-serif;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #009DD1;
+}
+
+nav a {
+  color: #181818;
+  text-decoration: none;
+  padding: 3px 0.8rem;
+  font-weight: bold;
+  line-height: 1.5rem;
+}
+
+
+#nav-active-page {
+  background-color: #f7f5eb;
+  color: #181818;
+  border-radius: 50px;
 }
