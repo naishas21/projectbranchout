@@ -9,3 +9,8 @@ nav ul {
     margin: 5px;
 }
 
+nav a {
+    text-decoration: none;
+    background-color:#009dd1;
+}
+
